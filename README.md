@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 
-  <title>Reducing Congestion using AI to Predict and Manage Traffic Flows</title>
+  <h1>Reducing Congestion using AI to Predict and Manage Traffic Flows</h1>
  
 
   <h2>Project Overview</h2>
