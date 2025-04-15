@@ -1,32 +1,7 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
+
   <title>Reducing Congestion using AI to Predict and Manage Traffic Flows</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      margin: 20px;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin-top: 20px;
-    }
-    th, td {
-      border: 1px solid #333;
-      padding: 8px;
-      text-align: center;
-    }
-    th {
-      background-color: #f2f2f2;
-    }
-    h2, h3 {
-      color: #2c3e50;
-    }
-  </style>
-</head>
-<body>
+ 
 
   <h2>Project Overview</h2>
   <p>
