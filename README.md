@@ -4,6 +4,10 @@
   <meta charset="UTF-8">
   <title>Reducing Congestion using AI to Predict and Manage Traffic Flows</title>
   <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 20px;
+    }
     table {
       border-collapse: collapse;
       width: 100%;
@@ -17,15 +21,24 @@
     th {
       background-color: #f2f2f2;
     }
+    h2, h3 {
+      color: #2c3e50;
+    }
   </style>
 </head>
 <body>
 
   <h2>Project Overview</h2>
-  <p>This project proposes an AI-driven approach to reducing urban traffic congestion by predicting traffic flows and recommending dynamic signal timings. The solution uses various machine learning algorithms and compares the impact of balanced and imbalanced datasets on prediction accuracy.</p>
+  <p>
+    This project proposes an AI-driven approach to reducing urban traffic congestion by predicting traffic flows and recommending dynamic signal timings.
+    The solution uses various machine learning algorithms and compares the impact of balanced and imbalanced datasets on prediction accuracy.
+  </p>
 
   <h2>Dataset</h2>
-  <p>The dataset used is a publicly available traffic flow dataset from <strong>Kaggle</strong>, collected at <strong>Kabul and Abdul-Haq Crossroads</strong> in Afghanistan. It consists of <strong>8,928 records</strong>, updated every 15 minutes, and includes both numerical and categorical variables.</p>
+  <p>
+    The dataset used is a publicly available traffic flow dataset from <strong>Kaggle</strong>, collected at <strong>Kabul and Abdul-Haq Crossroads</strong> in Afghanistan.
+    It consists of <strong>8,928 records</strong>, updated every 15 minutes, and includes both numerical and categorical variables.
+  </p>
 
   <h2>Key Findings</h2>
   <ul>
@@ -60,4 +73,3 @@
 
 </body>
 </html>
-
